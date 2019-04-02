@@ -4,8 +4,9 @@
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
 
-var wall_proxy = "PROXY 192.168.1.100:25690;";
-var wall_v6_proxy = "PROXY 192.168.1.100:25690;";
+var proxy = "PROXY 192.168.1.100:25690;";
+var wall_proxy = function(){ return proxy;};
+var wall_v6_proxy = function(){ return proxy;};
 
 var nowall_proxy = function(){ return direct; };
 var ip_proxy = function(){ return nowall_proxy(); };
