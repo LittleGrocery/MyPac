@@ -7160,7 +7160,9 @@ var rules = [
 	"@@||yahoo.cn",
 	"@@||youdao.com",
 	"@@||zhongsou.com",
-	"@@|http://ime.baidu.jp"
+	"@@|http://ime.baidu.jp",
+        ".showmetheparts.com"
+        
 ];
 
 /*
