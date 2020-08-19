@@ -254,7 +254,6 @@
 ^(.*\.)?edgesuite\.net$
 ^(.*\.)?compass-ssl\.microsoft\.com$
 ^(.*\.)?yixuedianzishu\.com$
-^(.*\.)?*\.update\.microsoft\.com$
 ^(.*\.)?0-100\.com$
 ^(.*\.)?0-6\.com$
 ^(.*\.)?0-gold\.net$

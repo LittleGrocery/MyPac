@@ -2220,7 +2220,6 @@ var white_domains = {"ac":{
 "live":1,
 "compass-ssl.microsoft":1,
 "yixuedianzishu":1,
-"*.update.microsoft":1,
 "0-100":1,
 "0-6":1,
 "00000wg":1,
