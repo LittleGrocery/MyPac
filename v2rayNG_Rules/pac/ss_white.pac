@@ -63297,7 +63297,17 @@ var white_domains = {"ac":{
 "kaspersky-labs":1,
 "live":1,
 "compass-ssl.microsoft":1,
-"yixuedianzishu":1
+"yixuedianzishu":1,
+"www.dagou2018":1,
+"www.738989":1,
+"www.443w":1,
+"forum.verysync":1,
+"bbs.vipfenxiang":1,
+"snew.tljpxm":1,
+"qiniu.hotsoo":1,
+"jf.botidata":1,
+"tj.tljpxm":1,
+"pimg.duccnuer":1
 },"com # Disabled: very unstable":{
 "#globalsign":1
 },"com/felixonmars/dnsmasq-china-list/commit/449e1faf9816226ba30082cdc54061f520f78f81#r31928598":{
@@ -71315,7 +71325,8 @@ var white_domains = {"ac":{
 "zijiecdn":1,
 "bilivideo":1,
 "office":1,
-"edgesuite":1
+"edgesuite":1,
+"www.987s":1
 },"network":{
 "css":1
 },"news":{
@@ -73496,7 +73507,8 @@ var white_domains = {"ac":{
 "mechina":1,
 "moegirl":1,
 "tipdim":1,
-"hdslb":1
+"hdslb":1,
+"cdn.ampproject":1
 },"ovh":{
 "bmp":1
 },"party":{
